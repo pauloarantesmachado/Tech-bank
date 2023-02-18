@@ -1,6 +1,6 @@
 <h1>Projeto Tech bank</h1>
 
-<h2>Esse é um projeto do Bootcamp Python Developerr</h2>
+<h2>Esse é um projeto do Bootcamp Python Developer</h2>
 <p>link do bootcamp:<a href="https://web.dio.me/track/formacao-python-developer">Python Developer<a/>
 
 <h3>Descrição do desafio</h3>
