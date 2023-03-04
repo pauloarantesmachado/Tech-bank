@@ -1,5 +1,5 @@
 options = """
-              Escolha a opção
+              Escolha a opção:
 [S] Sacar
 [D] Depositar
 [E] Extrato
@@ -47,7 +47,7 @@ while True:
       
       elif input_money_withdraw > 500:
 
-        print("O Limite por saque é de R$500.00!".center(60,"*"))
+        print("O Limite por saque é de R$500.00!!".center(60,"*"))
         break
 
       elif amount_of_loot == withdrawal_limit:
